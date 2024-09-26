@@ -1,5 +1,9 @@
 # EnergyTrading Smart Contract
 
+id: 0xca9fe9e23a718813757bd51b20d3624f7accb1395dce19484997acf05d3a39aa
+sc: ![image](https://github.com/user-attachments/assets/75d14bb1-9bb3-4231-9fa1-b251cc6cda75)
+
+
 ## Vision
 
 The **EnergyTrading** smart contract provides a decentralized marketplace for trading renewable energy. Producers can list their excess energy for sale, while consumers can purchase energy at a price per kilowatt-hour, creating a transparent and efficient platform for energy trading.
